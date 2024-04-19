@@ -1,0 +1,12 @@
+{
+  "added to cart": {
+    "success": "Success: You have added "
+  },
+  "dropdown menu": {
+    "desktop": "Desktops",
+    "show all": "Show All Desktops"
+  },
+  "featured product":{
+    "product": "MacBook"
+  }
+}

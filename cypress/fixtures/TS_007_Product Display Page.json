@@ -1,0 +1,58 @@
+{
+  "buttons": {
+    "right arrow": "Next (Right arrow key)",
+    "left arrow": "Previous (Left arrow key)",
+    "close": "Close (Esc)"
+  },
+  "images": {
+    "image 1": "https://awesomeqa.com/ui/image/cache/catalog/demo/imac_1-500x500.jpg",
+    "image 2": "https://awesomeqa.com/ui/image/cache/catalog/demo/imac_3-500x500.jpg",
+    "image 3": "https://awesomeqa.com/ui/image/cache/catalog/demo/imac_2-500x500.jpg"
+  },
+  "product characteristics": {
+    "brand": "Brand: Apple",
+    "product code": "Product Code: Product 14"
+  },
+  "availabilty": {
+    "in": "Availability: In Stock",
+    "out": "Availability: Out of Stock",
+    "limited": "Availability: Limited Stock"
+  },
+  "prices": {
+    "regular": "$122.00",
+    "w/tax": "Ex Tax: $100.00",
+    "original price": "$122.00",
+    "bulk price": "$1,220.00"
+  },
+  "product": {
+    "product": "Apple Cinema 30"
+  },
+  "minimum quantity": {
+    "warning": " This product has a minimum quantity of 2"
+  },
+  "review": {
+    "name": "Mark",
+    "text": "Great Product. I really like the specifications.",
+    "success": " Thank you for your review. It has been submitted to the webmaster for approval.",
+    "no review": "There are no reviews for this product.",
+    "write": "Write a review",
+    "reviews": "0 reviews",
+    "warning": " Warning: Please select a review rating!",
+    "bad review text": " Warning: Review Text must be between 25 and 1000 characters!"
+  },
+  "wish list": {
+    "success": " Success: You have added ",
+    "heading": "My Wish List"
+  },
+  "add to cart": {
+    "success": "Success: You have added ",
+    "checkout": "Checkout",
+    "address": "Pavement Boulevard",
+    "city": "London",
+    "post code": "1000",
+    "add": "Add to Cart"
+  },
+  "reward points": {
+    "price": "Price in reward points: 400"
+  }
+}

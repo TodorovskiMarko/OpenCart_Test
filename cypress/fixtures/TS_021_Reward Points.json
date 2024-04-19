@@ -1,0 +1,13 @@
+{
+  "myacc": {
+    "reward": "Your Reward Points",
+    "heading": "Your Reward Points"
+  },
+  "right column": "Reward Points",
+  "no points": {
+    "text": "Your total number of reward points is: 0",
+    "table": "You do not have any reward points!"
+  },
+  "continue": "Continue",
+  "breadcrumb": "Account"
+}

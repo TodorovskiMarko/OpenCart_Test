@@ -1,0 +1,36 @@
+{
+  "before each": {
+    "login": "Login",
+    "logwin": "Returning Customer"
+  },
+  "invalid credentials": {
+    "invalid email": "xyzab123@gmail.com",
+    "invalid pass": "12345",
+    "warning": " Warning: No match for E-Mail Address and/or Password."
+  },
+  "forgotten password": {
+    "heading": "Forgot Your Password?"
+  },
+  "placeholders": {
+    "email": "E-Mail Address",
+    "pass": "Password"
+  },
+  "logout": {
+    "logout": "Logout"
+  },
+  "unsucessful login attemps": {
+    "warning": "Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour."
+  },
+  "changing password": {
+    "change": "Change your password",
+    "heading": "Change Password",
+    "newpass": "testerdemo12345",
+    "alert": " Success: Your password has been successfully updated."
+  },
+  "navigating login": {
+    "reglog": "login page"
+  },
+  "title":{
+    "title": "Account Login"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "before each": {
+    "register": "Register",
+    "regacc": "Register Account"
+  },
+  "fields": {
+    "firstname": "Mark",
+    "lastname": "Jack",
+    "email": "lagea224@namewok.com",
+    "tel": 123456789,
+    "pass": "U2FsdGVkX19vrRo9GFrNnguKxkf8R2aYWzLcr0S9VCk="
+  },
+  "created acc": {
+    "created": "Your Account Has Been Created!",
+    "continue": "Continue",
+    "myacc": "My Account"
+  },
+  "TC-2 email": {
+    "email2": "laenay117@namewok.com"
+  },
+  "no or invalid credentials": {
+    "warning": " Warning: You must agree to the Privacy Policy!",
+    "nofirstname": "First Name must be between 1 and 32 characters!",
+    "nolastname": "Last Name must be between 1 and 32 characters!",
+    "noemail": "E-Mail Address does not appear to be valid!",
+    "notel": "Telephone must be between 3 and 32 characters!",
+    "nopass": "Password must be between 4 and 20 characters!"
+  },
+  "navigating register": {
+    "login": "Login",
+    "newcustomer": "New Customer"
+  },
+  "different pass": {
+    "pass2": "testerdemo1234",
+    "wrongpass": "Password confirmation does not match password!"
+  },
+  "TC-5 email": {
+    "email3": "laenay647@namewok.com"
+  },
+  "sameuser": {
+    "sameemail": " Warning: E-Mail Address is already registered!"
+  },
+  "wrongemail": {
+    "wrongemail": "tester"
+  },
+  "wrongtel": {
+    "email4": "lgenay17@namewok.com",
+    "wrongtel": 12
+  },
+  "placeholders": {
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "E-Mail",
+    "tel": "Telephone",
+    "pass": "Password",
+    "confirmpass": "Password Confirm"
+  },
+  "TC-15 email": {
+    "email5": "lagenay999@namewok.com"
+  },
+  "TC-17 email": {
+    "email6": "lagenay119@namewok.com"
+  },
+  "breadcrumb": {
+    "acc": "Account"
+  },
+  "encryptionKey": {
+    "AES": "SecretKey" 
+  }
+}
+

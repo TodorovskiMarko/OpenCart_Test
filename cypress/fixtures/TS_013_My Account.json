@@ -1,0 +1,14 @@
+{
+  "order success": {
+    "myacc": "my account"
+  },
+  "dropdown menu": {
+    "myacc": "My Account"
+  },
+  "right column": {
+    "oh": "Order History"
+  },
+  "breadcrumb": {
+    "acc": "Account"
+  }
+}

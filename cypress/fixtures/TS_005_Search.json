@@ -1,0 +1,38 @@
+{
+  "product 1": {
+    "product": "iMac"
+  },
+  "non existing product": {
+    "product": "Fitbit",
+    "message": "There is no product that matches the search criteria."
+  },
+  "product 2": {
+    "product": "Mac"
+  },
+  "placeholders": {
+    "search": "Search",
+    "search criteria": "Keywords"
+  },
+  "text from product description": {
+    "text": "iLife"
+  },
+  "dropdown options": {
+    "option1": "Mac",
+    "option2": "PC",
+    "parent category": "Desktops"
+  },
+  "product compare": {
+    "success msg": "Success: You have added",
+    "heading": "Product Comparison"
+  },
+  "product sort": {
+    "sort1": "Price (Low > High)",
+    "product": "MacBook",
+    "sort2": "Price (High > Low)",
+    "product2": "MacBook Pro",
+    "product3": "MacBook Air"
+  },
+  "site map":{
+    "sm": "Site Map"
+  }
+}

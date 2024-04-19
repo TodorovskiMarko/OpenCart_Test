@@ -1,0 +1,19 @@
+{
+  "heading": "Contact Us",
+  "store owner": "store owner",
+  "tel": "Telephone",
+  "contact forms": {
+    "name": "Your Name",
+    "email": "E-Mail Address",
+    "enquiry": "Enquiry"
+  },
+  "enquiry": "Please contact me, I have problems with my order",
+  "success": "Your enquiry has been successfully sent to the store owner!",
+  "continue": "Continue",
+  "empty fields warnings": {
+    "name": "Name must be between 3 and 32 characters!",
+    "email": "E-Mail Address does not appear to be valid!",
+    "enquiry": "Enquiry must be between 10 and 3000 characters!"
+  },
+  "invalid email": "dummy159@gmail"
+}

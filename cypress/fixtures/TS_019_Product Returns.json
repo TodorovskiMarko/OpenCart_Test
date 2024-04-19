@@ -1,0 +1,50 @@
+{
+  "submit return": {
+    "text": "Thank you for submitting your return request. Your request has been sent to the relevant department for processing."
+  },
+  "empty fields warnings": {
+    "firstname": "First Name must be between 1 and 32 characters!",
+    "lastname": "Last Name must be between 1 and 32 characters!",
+    "email": "E-Mail Address does not appear to be valid!",
+    "tel": "Telephone must be between 3 and 32 characters!",
+    "order id": "Order ID required!",
+    "product name": "Product Name must be greater than 3 and less than 255 characters!",
+    "product model": "Product Model must be greater than 3 and less than 64 characters!",
+    "return reason": "You must select a return product reason!"
+  },
+  "placeholders": {
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "E-Mail",
+    "tel": "Telephone",
+    "order id": "Order ID",
+    "order date": "Order Date",
+    "product name": "Product Name",
+    "product model": "Product Code",
+    "quantity": "Quantity",
+    "faulty": "Faulty or other details"
+  },
+  "new details": {
+    "firstname": "Pablo",
+    "lastname": "Eduardes",
+    "email": "pablo123@gmail.com",
+    "tel": "89934455",
+    "order id": "203",
+    "order date": "2024-01-31",
+    "product name": "MacBook",
+    "product model": "Product 15",
+    "quantity": "2",
+    "back btn": "Back"
+  },
+  "invalid email": {
+    "email 1": "pablo",
+    "email 2": "pablo@",
+    "email 3": "pablo@gmail",
+    "email 4": "pablo@gmail."
+  },
+  "future date": "2024-03-24",
+  "breadcrumbs": {
+    "acc": " Account",
+    "prodret": " Product Returns"
+  }
+}

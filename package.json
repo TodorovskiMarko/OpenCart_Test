@@ -1,0 +1,20 @@
+{
+  "name": "opencart-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-clipboard": "^1.0.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "cypress-commands": "^3.0.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "dropdown": {
+    "desktops": "Desktops",
+    "show all": "Show All Desktops"
+  },
+  "compare": {
+    "product compare": "Product Compare (0)",
+    "no product": "You have not chosen any products to compare.",
+    "continue": "Continue",
+    "product 2": "iPhone",
+    "product 3": "MacBook Air",
+    "product 4": "MacBook",
+    "product 5": "MacBook Pro"
+  },
+  "buttons":{
+    "add": "Add to Cart",
+    "remove": "Remove"
+  },
+  "added to cart":{
+    "cart": "shopping cart",
+    "heading": "Shopping Cart"
+  },
+  "removed":{
+    "message": " Success: You have modified your product comparison!"
+  },
+  "breadcrumb":{
+    "pc": "Product Comparison"
+  }
+}

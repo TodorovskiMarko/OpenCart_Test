@@ -1,0 +1,29 @@
+{
+  "phone number": "123456789",
+  "currencies": {
+    "euro": "€ Euro",
+    "pound": "£ Pound Sterling",
+    "dollar": "$ US Dollar"
+  },
+  "menu headers": {
+    "desktops": {
+      "link": "Desktops",
+      "option 1": "PC (0)",
+      "option 2": "Mac (1)",
+      "show all": "Show All Desktops"
+    }
+  },
+  "about us": {
+    "link": "About Us"
+  },
+  "delivery": "Delivery Information",
+  "privacy": "Privacy Policy",
+  "terms": "Terms & Conditions",
+  "brands": {
+    "link": "Brands",
+    "heading": "Find Your Favorite Brand",
+    "brand": "Apple"
+  },
+  "product compare": "Product Compare (0)",
+  "sort by select": "Name (Z - A)"
+}

@@ -1,0 +1,14 @@
+{
+    "link": "Gift Certificates",
+    "heading": "Purchase a Gift Certificate",
+    "mandatory fields": {
+        "recipients name": "Jakey",
+        "recipients email": "jake123@gmail.com",
+        "your name": "Mark",
+        "your email": "dymmy598@gmail.com"
+    },
+    "success": "Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.",
+    "continue": "Continue",
+    "table text": "$1.00 Gift Certificate for ",
+    "checkout": "Checkout"
+}

@@ -1,0 +1,89 @@
+{
+  "register": {
+    "affiliate": "Register for an affiliate account",
+    "heading": "Your Affiliate Information",
+    "payee name": "Mark",
+    "success": " Success: Your account has been successfully updated."
+  },
+  "acc 1": {
+    "email": "dummy345@gmail.com",
+    "pass": "demo124"
+  },
+  "all fields": {
+    "company": "Lightbulb Corporation",
+    "website": "www.lightbulb.com",
+    "tax id": 223
+  },
+  "acc 2": {
+    "email": "dummy346@gmail.com",
+    "pass": "demo124"
+  },
+  "acc 3": {
+    "email": "dummy347@gmail.com",
+    "pass": "demo124",
+    "bank name": "Komercijalna",
+    "ABA number": 5558392391,
+    "SWIFT code": "JIMPMK2X",
+    "acc number": 336
+  },
+  "acc 4": {
+    "email": "dummy348@gmail.com",
+    "pass": "demo124"
+  },
+  "invalid email": {
+    "email": "dummy349@gmail",
+    "warning": "PayPal Email Address does not appear to be valid!",
+    "register warning": "E-Mail Address does not appear to be valid!"
+  },
+  "cheque empty field warning": "Cheque Payee Name required!",
+  "paypal empty field warning": "PayPal Email Address does not appear to be valid!",
+  "bank transfer field": {
+    "acc name warning": "Account Name required!",
+    "acc number required": "Account Number required!"
+  },
+  "footer": {
+    "link": "Affiliate",
+    "heading": "Affiliate Program"
+  },
+  "manadatory details (affilliate program)": {
+    "firstname": "Mark",
+    "lastname": "Jack",
+    "email": "jack576@gmail.com",
+    "tel": 38975567900,
+    "cheque payee name": "Mark",
+    "pass": "jackie123",
+    "success": "Your Affiliate Account Has Been Created!"
+  },
+  "myacc": "My Account",
+  "my affiliate account": {
+    "edit": "Edit your affiliate information",
+    "custom": "Custom Affiliate Tracking Code"
+  },
+  "all fields email": "jack579@gmail.com",
+  "duplicate acc alert": "Warning: E-Mail Address is already registered!",
+  "different pass": {
+    "email": "jack391@gmail.com",
+    "pass": "demo124",
+    "diff pass": "demo123",
+    "warning": "Password confirmation does not match password!"
+  },
+  "login": "login page",
+  "about": "About Us",
+  "not registered": {
+    "email": "dummy3568@gmail.com",
+    "pass": "demo124"
+  },
+  "tracking": {
+    "heading": "Affiliate Tracking",
+    "text": "To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL's linking to us. You can use the tools below to generate links to the TheTestingAcademy eCommerce web site.",
+    "product": "iMac",
+    "breadcrumbs": {
+      "acc": "Account",
+      "tracking": "Affiliate Tracking"
+    }
+  },
+  "acc 5": {
+    "email": "dummy388@gmail.com",
+    "pass": "demo124"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "myacc": {
+    "return": "View your return requests",
+    "heading": "Product Returns"
+  },
+  "right column": "Returns",
+  "no returns text": "You have not made any previous returns!",
+  "continue btn": "Continue",
+  "breadcrumbs": {
+    "info": "Return Information",
+    "acc": "Account"
+  },
+  "return details": {
+    "return": "Return ID",
+    "added": "Date Added",
+    "order": "Order ID",
+    "date": "Order Date"
+  }
+}

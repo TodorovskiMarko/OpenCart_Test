@@ -1,0 +1,62 @@
+{
+  "checkout": {
+    "checkout": "Checkout"
+  },
+  "billing details": {
+    "existing address": "I want to use an existing address",
+    "text": "Mark Jack, Pavement Boulevard, London, Highlands, United Kingdom",
+    "new address": {
+      "firstname": "Jack",
+      "lastname": "Rowe",
+      "address": "Rouge Boulevard",
+      "city": "Manchester",
+      "post code": 1000,
+      "region": "Greater Manchester",
+      "company": "Manchester Locomotive",
+      "address 2": "Rooney Road"
+    },
+    "placehorders": {
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "address": "Address 1",
+      "city": "City",
+      "post code": "Post Code",
+      "company": "Company",
+      "address 2": "Address 2"
+    },
+    "warnings": {
+      "firstname": "First Name must be between 1 and 32 characters!",
+      "lastname": "Last Name must be between 1 and 32 characters!",
+      "address": "Address 1 must be between 3 and 128 characters!",
+      "city": "City must be between 2 and 128 characters!",
+      "post code": "Postcode must be between 2 and 10 characters!",
+      "region": "Please select a region / state!"
+    }
+  },
+  "delivery method": {
+    "rate": "Flat Shipping Rate - $8.00",
+    "comment": "Hope it's delivered in a few days time",
+    "select": "Please select the preferred shipping method to use on this order."
+  },
+  "payment method": {
+    "cod": "Cash On Delivery",
+    "comment": "I'll be paying in cash",
+    "select": "Please select the preferred payment method to use on this order."
+  },
+  "confirm order": {
+    "model": "Product 14",
+    "unit price": "$122.00"
+  },
+  "order placed": {
+    "heading": "Your order has been placed!"
+  },
+  "guest": {
+    "checkbox": "My delivery and billing addresses are the same.",
+    "email": "mark1243@gmail.com",
+    "tel": "075000000"
+  },
+  "new register": {
+    "email": "dummy6@gmail.com",
+    "pass": "register123"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "added": {
+    "success": "Success: You have added",
+    "heading": "Shopping Cart",
+    "cart": "shopping cart"
+  },
+  "cart": {
+    "shopping": "Shopping Cart",
+    "view": " View Cart",
+    "weight": "(5.00kg)"
+  },
+  "page": {
+    "model": "Product 14",
+    "unit price": "$122.00",
+    "modify": " Success: You have modified your shopping cart!",
+    "empty": "Your shopping cart is empty!"
+  },
+  "coupon codes": {
+    "panel title": "Use Coupon Code",
+    "invalid code": "XYZ",
+    "warning": " Warning: Coupon is either invalid, expired or reached its usage limit!",
+    "expired code": 1111,
+    "usage limit": 2222,
+    "no coupon warning": " Warning: Please enter a coupon code!",
+    "placeholder": "Enter your coupon here"
+  },
+  "shipping": {
+    "panel title": "Estimate Shipping & Taxes ",
+    "country": "United States",
+    "zone": "California",
+    "post code": "90001",
+    "method": "Please select the preferred shipping method to use on this order.",
+    "rate": "Flat Rate",
+    "success": "Success: Your shipping estimate has been applied!",
+    "total price": "$105.00",
+    "cancel": "Cancel",
+    "placeholder": "Post Code"
+  },
+  "gift certificate": {
+    "panel title": "Use Gift Certificate",
+    "invalid code": "XYZ",
+    "warning": " Warning: Gift Certificate is either invalid or the balance has been used up!",
+    "used up code": "3EEE1E96",
+    "no code warning": " Warning: Please enter a gift certificate code!",
+    "placeholder": "Enter your gift certificate code here"
+  },
+  "checkout":{
+    "button": "Checkout"
+  },
+  "contune shopping": "Continue Shopping",
+  "home": "Featured"
+}

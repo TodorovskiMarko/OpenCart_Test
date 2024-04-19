@@ -1,0 +1,91 @@
+{
+  "myacc": {
+    "modify": "Modify your address book entries",
+    "heading": "Address Book Entries"
+  },
+  "right column": {
+    "btn": "Address Book"
+  },
+  "site map": {
+    "site": "Site Map",
+    "btn": "Address Book"
+  },
+  "default address": {
+    "fullname": "Jack Rowe",
+    "address": "Rouge Boulevard",
+    "city": "London 1001",
+    "region": "Merseyside",
+    "country": "United Kingdom"
+  },
+  "delete": {
+    "btn": "Delete",
+    "warning": "Warning: You can not delete your default address!",
+    "success": "Your address has been successfully deleted"
+  },
+  "update": {
+    "btn": "Edit",
+    "heading": "Edit Address",
+    "firstname": "Jack",
+    "lastname": "Rowe",
+    "company": "Darjeeling Limited",
+    "address": "Rouge Boulevard",
+    "address 2": "Leaf Street",
+    "city": "London",
+    "post code": "1001",
+    "region": "Merseyside",
+    "success": "Your address has been successfully updated"
+  },
+  "empty fields": {
+    "firstname": "First Name must be between 1 and 32 characters!",
+    "lastname": "Last Name must be between 1 and 32 characters!",
+    "address": "Address must be between 3 and 128 characters!",
+    "city": "City must be between 2 and 128 characters!",
+    "country": "Please select a country!"
+  },
+  "back button": {
+    "firstname": "Jackie",
+    "lastname": "Brown",
+    "company": "ProBike",
+    "address": "Golf Street",
+    "address 2": "Bowling Alley",
+    "city": "Glasgow",
+    "post code": "939"
+  },
+  "new address": {
+    "btn": "New Address",
+    "heading": "Add Address",
+    "firstname": "Frank",
+    "lastname": "Smith",
+    "company": "LED International",
+    "address": "Boggie Street",
+    "address 2": "Orange Boulevard",
+    "city": "Aberdeen",
+    "post code": "948",
+    "region": "Aberdeenshire",
+    "success": "Your address has been successfully added"
+  },
+  "checkout address": {
+    "firstname": "Mark",
+    "lastname": "Brown",
+    "company": "Vodar Productions",
+    "address": "Markle Street",
+    "address 2": "Peach Street",
+    "city": "Falkirk",
+    "post code": "899"
+  },
+  "checkout address 2": {
+    "firstname": "Omar",
+    "lastname": "Simpson",
+    "company": "Lays",
+    "address": "Pearl Street",
+    "address 2": "Salt Avenue",
+    "city": "Falkirk",
+    "post code": "899"
+  },
+  "breadcrumbs": {
+    "acc": "Account",
+    "address": "Address Book",
+    "edit": "Edit Address",
+    "add": "Add Address"
+  }
+}

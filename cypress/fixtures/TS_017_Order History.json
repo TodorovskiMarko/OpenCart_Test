@@ -1,0 +1,19 @@
+{
+  "myacc": {
+    "order": "View your order history",
+    "heading": "Order History"
+  },
+  "site map": {
+    "site": "Site Map",
+    "btn": "Order History"
+  },
+  "continue": {
+    "btn": "Continue"
+  },
+  "order information": {
+    "details": "Order Details"
+  },
+  "breadcrumb": {
+    "acc": "Account"
+  }
+}

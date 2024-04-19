@@ -1,0 +1,22 @@
+{
+  "checkout": {
+    "order success": "Your order has been placed!",
+    "continue": "Continue"
+  },
+  "no products category": {
+    "category": "PC (0)",
+    "empty": "There are no products to list in this category."
+  },
+  "hero images": {
+    "picture 1": "https://awesomeqa.com/ui/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg",
+    "picture 2": "https://awesomeqa.com/ui/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg"
+  },
+  "partners": {
+    "partner 1": "https://awesomeqa.com/ui/image/cache/catalog/demo/manufacturer/redbull-130x100.png",
+    "partner 2": "https://awesomeqa.com/ui/image/cache/catalog/demo/manufacturer/sony-130x100.png",
+    "partner 3": "https://awesomeqa.com/ui/image/cache/catalog/demo/manufacturer/cocacola-130x100.png",
+    "partner 4": "https://awesomeqa.com/ui/image/cache/catalog/demo/manufacturer/burgerking-130x100.png",
+    "partner 5": "https://awesomeqa.com/ui/image/cache/catalog/demo/manufacturer/nfl-130x100.png"
+  },
+  "home button": "https://awesomeqa.com/ui/index.php?route=common/home"
+}

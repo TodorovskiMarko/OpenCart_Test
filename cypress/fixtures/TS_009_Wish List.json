@@ -1,0 +1,20 @@
+{
+  "added": {
+    "success": " Success: You have added ",
+    "heading": "My Wish List"
+  },
+  "wish": {
+    "wish list": "Wish List",
+    "modify": "Modify your wish list",
+    "empty": "Your wish list is empty.",
+    "removed": " Success: You have modified your wish list!"
+  },
+  "product details": {
+    "model": "Product 14",
+    "stock": "In Stock",
+    "unit price": "$122.00"
+  },
+  "breadcrumb": {
+    "acc": "Account"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "myacc": {
+    "tran": "Your Transactions"
+  },
+  "dropdown": "Transactions",
+  "no transcations": {
+    "balance": "Your current balance is: $0.00",
+    "text": "You do not have any transactions!"
+  },
+  "continue btn": "Continue",
+  "breadcrumb": "Account"
+}

@@ -1,0 +1,40 @@
+{
+  "edit": {
+    "btn": "Edit your account information",
+    "heading": "My Account Information"
+  },
+  "right column": {
+    "edit": "Edit Account"
+  },
+  "site map": {
+    "btn": "Account Information"
+  },
+  "update": {
+    "firstname": "Jack",
+    "lastname": "Rowe",
+    "email": "jack2231@gmail.com",
+    "tel": 223305,
+    "success": "Success: Your account has been successfully updated.",
+    "warning": "Warning: No match for E-Mail Address and/or Password.",
+    "invalid email": "rowe123",
+    "invalid email 2": "rowe123@",
+    "invalid email 3": "rowe123@gmail",
+    "invalid email 4": "rowe123@gmail."
+  },
+  "empty field warnings": {
+    "firstname": "First Name must be between 1 and 32 characters!",
+    "lastname": "Last Name must be between 1 and 32 characters!",
+    "email": "E-Mail Address does not appear to be valid!",
+    "tel": "Telephone must be between 3 and 32 characters!"
+  },
+  "placeholders": {
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "E-Mail",
+    "tel": "Telephone"
+  },
+  "breadcrumbs": {
+    "acc": "Account",
+    "edit": "Edit Information"
+  }
+}

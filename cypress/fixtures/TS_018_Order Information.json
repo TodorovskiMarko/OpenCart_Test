@@ -1,0 +1,23 @@
+{
+  "reorder": {
+    "success": " Success: You have added "
+  },
+  "product return": {
+    "heading": "Product Returns"
+  },
+  "continue": {
+    "btn": "Continue"
+  },
+  "breadcrumb": {
+    "info": "Order History"
+  },
+  "title": {
+    "title": "Order Information"
+  },
+  "order details": {
+    "id": "Order ID",
+    "date": "Date Added",
+    "payment": "Payment Method",
+    "shipping": "Shipping Method"
+  }
+}

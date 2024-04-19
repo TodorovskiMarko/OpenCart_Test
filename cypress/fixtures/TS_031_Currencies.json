@@ -1,0 +1,13 @@
+{
+  "currency dropdown": {
+    "header": "Currency",
+    "euro": "€ Euro",
+    "pound": "£ Pound Sterling",
+    "dollar": "$ US Dollar"
+  },
+  "signs": {
+    "euro sign": "€",
+    "pound sign": "£",
+    "dollar sign": "$"
+  }
+}
